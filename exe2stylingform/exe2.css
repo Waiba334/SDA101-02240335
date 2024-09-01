@@ -1,0 +1,14 @@
+.container {
+    text-align: left;
+}
+
+tr td {
+    background-color: #cce5ff;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

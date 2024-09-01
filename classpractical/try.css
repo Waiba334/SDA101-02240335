@@ -1,0 +1,23 @@
+body {                   /*color style for the backdrop */
+   background-color: black;
+}
+
+h2 {                     /* color style for  the header */    
+    color: white;
+    text-align: left;     /* placement for the header */
+}
+
+p {                      /*color style for the paragraph */
+    color: white;
+}
+
+a {                      /* color style for the a link */
+    color: rgba(0, 0, 255, 0.849);
+    link-align: right; /*links placement for the a link */
+}
+
+
+
+
+
+

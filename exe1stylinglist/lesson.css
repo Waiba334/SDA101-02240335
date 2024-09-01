@@ -1,0 +1,22 @@
+ol li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+  width: 160px;
+}
+
+ul li{
+  list-style-type: square;
+  background: #ffcccc;
+  color: darkred;
+  margin: 5px;
+  width: 120px;
+  
+}
+
+ul li:hover {
+  background-color: darkgrey;
+  transform: translateX(15px);
+  transition-duration: 0.5s;
+}
+
