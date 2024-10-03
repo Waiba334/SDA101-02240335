@@ -13,7 +13,7 @@ p {                      /*color style for the paragraph */
 
 a {                      /* color style for the a link */
     color: rgba(0, 0, 255, 0.849);
-    link-align: right; /*links placement for the a link */
+    text-decoration: underline; 
 }
 
 
